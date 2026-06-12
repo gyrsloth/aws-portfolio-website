@@ -40,9 +40,7 @@ clf-c02-certificate.jpg
 
 ![S3 Bucket](screenshots/s3-bucket.png)
 
-### Live Website
 
-![Website](screenshots/website-live.png)
 
 ## Skills Demonstrated
 
