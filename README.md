@@ -6,7 +6,7 @@ This project is a personal portfolio website hosted using Amazon S3 Static Websi
 
 ## Live Website
 
-https://balamurugan-portfolio.s3.ap-south-1.amazonaws.com/portfolio/index.html
+http://balamurugan-portfolio.s3-website.ap-south-1.amazonaws.com/
 
 ## AWS Services Used
 
