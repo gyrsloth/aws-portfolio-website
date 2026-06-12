@@ -31,14 +31,17 @@ clf-c02-certificate.jpg
 ```
 
 ## Screenshots
+## Homepage
 
-### Homepage
+![Homepage](portfolio/screenshots/homepage.png)
 
-![Homepage](screenshots/homepage.png)
+## Live Website
 
-### AWS S3 Bucket
+![Website](portfolio/screenshots/website-live.png)
 
-![S3 Bucket](screenshots/s3-bucket.png)
+## S3 Bucket
+
+![S3 Bucket](portfolio/screenshots/s3-bucket.png)
 
 
 
