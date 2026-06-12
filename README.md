@@ -35,9 +35,7 @@ clf-c02-certificate.jpg
 
 ![Homepage](portfolio/screenshots/homepage.png)
 
-## Live Website
 
-![Website](portfolio/screenshots/website-live.png)
 
 ## S3 Bucket
 
