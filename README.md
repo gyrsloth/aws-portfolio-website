@@ -33,7 +33,7 @@ clf-c02-certificate.jpg
 ## Screenshots
 ## Homepage
 
-![Homepage](portfolio/screenshots/homepage.png)
+![Homepage](portfolio/screenshots/homepage1.png)
 
 
 
